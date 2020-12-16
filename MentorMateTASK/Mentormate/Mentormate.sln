@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brickwork", "Brickwork\Brickwork.csproj", "{06375B5A-F90F-439A-B057-06167C1486AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06375B5A-F90F-439A-B057-06167C1486AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06375B5A-F90F-439A-B057-06167C1486AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06375B5A-F90F-439A-B057-06167C1486AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06375B5A-F90F-439A-B057-06167C1486AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA660C36-A03A-4791-85FD-C5DE576BA7F2}
+	EndGlobalSection
+EndGlobal
